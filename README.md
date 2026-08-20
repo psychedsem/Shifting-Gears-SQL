@@ -28,8 +28,8 @@ The project demonstrates how SQL can be used not only to query datasets, but als
 > 🇬🇧 [View the Presentation in English](Shifting%20Gears%20ENG.pdf)  
 > 🇮🇹 [View the Presentation in Italian](Shifting%20Gears%20ITA.pdf)
 
-> 🇬🇧 [Open the SQL Script in English](shifting_gears_EN.sql)  
-> 🇮🇹 [Open the SQL Script in Italian](shifting_gears_IT.sql)
+> 🇬🇧 [Open the SQL Script in English](ENG%20Analysis'%20Script.sql)  
+> 🇮🇹 [Open the SQL Script in Italian](ITA%20Analysis'%20Script.sql)
 
 ### Data & Documentation
 
@@ -75,8 +75,8 @@ Il progetto mostra come SQL possa essere utilizzato non soltanto per interrogare
 > 🇬🇧 [Visualizza la presentazione in Inglese](Shifting%20Gears%20ENG.pdf)  
 > 🇮🇹 [Visualizza la presentazione in Italiano](Shifting%20Gears%20ITA.pdf)
 
-> 🇬🇧 [Apri lo script SQL in Inglese](shifting_gears_EN.sql)  
-> 🇮🇹 [Apri lo script SQL in Italiano](shifting_gears_IT.sql)
+> 🇬🇧 [Apri lo script SQL in Inglese](ENG%20Analysis'%20Script.sql)  
+> 🇮🇹 [Apri lo script SQL in Italiano](ITA%20Analysis'%20Script.sql)
 
 ### Dati & Documentazione
 
