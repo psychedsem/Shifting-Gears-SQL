@@ -94,6 +94,6 @@ Documentazione dettagliata delle fonti utilizzate per interpretare i risultati, 
 
 ---
 
-### Technologie
+### Tecnologie
 
 `SQL` · `PostgreSQL`
