@@ -4,7 +4,7 @@
 
 ---
 
-## English
+## 🇬🇧 English
 
 ### About the Project
 
@@ -51,7 +51,7 @@ Detailed source documentation supporting the interpretation of the results, incl
 
 ---
 
-## Italiano
+## 🇮🇹 Italiano
 
 ### Il Progetto
 
