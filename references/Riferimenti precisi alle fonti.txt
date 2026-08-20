@@ -1,0 +1,143 @@
+SLIDE 3
+
+-IEA (International Energy Agency), "World Energy Outlook 2019": 
+
+https://www.iea.org/reports/world-energy-outlook-2019/renewables 
+
+Conferma che nel 2019 il solare e l'eolico erano i motori della crescita, ma la domanda elettrica globale cresceva troppo velocemente per una decarbonizzazione totale.
+
+-REN21, "Renewables 2019 Global Status Report": 
+
+https://www.ren21.net/gsr-2019/chapters/chapter_01/chapter_01/
+Riferimento: Introduction. Evidenzia la discrepanza tra il settore elettrico (in rapida transizione) e quelli del riscaldamento/trasporti (ancora legati ai fossili).
+
+
+SLIDE 4
+
+-Mariana Mazzucato (Project Syndicate), "The Green Entrepreneurial State": 
+
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2744602#
+
+Qui l'autrice spiega come le tecnologie verdi (eolico/solare) in Germania siano decollate grazie ai "pazienti capitali di stato" e non solo al libero mercato (Pagina 8).
+
+-IRENA Report: "Renewable Energy Policies in a Time of Transition (2018)":
+
+https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2018/Apr/IRENA_IEA_REN21_Policies_2018.pdf
+​
+Riferimento al documento: A pagina 61 e 62 è argomentato come i paesi citati abbiano usato incentivi fiscali (Feed in Policies) e aste per superare la media, a differenza di chi è rimasto ancorato ai sussidi fossili.
+
+-IRENA Report: "Energy Transition in Brazil 2025"
+
+https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2025/Nov/IRENA_COU_Energy_transition_Brazil_2025.pdf
+
+Riferimento: “This, in turn, is the result of actions that have been implemented over many years.” Subito dopo specifica quali rinnovabili: hydropower, sugarcane products, solo più recentemente wind e solar (pagina 13-14)
+*Le fonti della sezione "paradosso" sono presenti nella slide 5.
+
+
+SLIDE 5 
+
+-IEA (International Energy Agency), "Africa Energy Outlook 2019": 
+
+https://www.iea.org/reports/africa-energy-outlook-2019 
+​
+Riferimento al documento: sezione Energy transitions, spiega le difficoltà in generale che il continente 
+africano ha a rinnovare le loro fonti di energia.
+
+-Paper Scientifico: Dagnachew et al. (2020): 
+
+https://www.researchgate.net/publication/347044950_Integrating_energy_access_efficiency_and_renewable_energy_policies_in_Sub-Saharan_Africa_a_model-based_analysis.
+​
+Riferimento al documento: Nella pagina 6 e 7 spiega come l'Africa subsahariana è ancora legata alle biomasse tradizionali
+
+
+SLIDE 6
+Le fonti sono le stesse della Slide 3 (quindi non l'ho riportati a piè di pagina) cambiano giusto i riferimenti specifici.
+
+-IEA (International Energy Agency), "World Energy Outlook 2019":
+
+https://iea.blob.core.windows.net/assets/98909c1b-aabc-4797-9926-35307b418cdb/WEO2019-free.pdf
+
+Riferimenti: 7.2 Renewables overview (pagine 305-306) e 7.5 Material efficiency in heavy industries (pagine 311-319). Qui il report afferma che: acciaio, cemento e chimica restano fortemente dipendenti dai fossili, le rinnovabili elettriche non bastano da sole, servono nuove tecnologie e riconversioni di processo; 6.12 Exploring the new frontiers of flexibility (pagine 292-298) Qui è scritto esplicitamente che l’integrazione delle rinnovabili richiede, accumulo energetico, flessibilità di rete, nuovo design dei sistemi elettrici. Senza queste tecnologie, le rinnovabili non sostituiscono il fossile
+
+-REN21, "Renewables 2019 Global Status Report": 
+
+https://www.ren21.net/gsr-2019/chapters/chapter_01/chapter_01/
+
+Riferimenti: "Heating and Cooling", Qui viene detto come la maggior parte della domanda energetica globale è per heating & cooling ma l’industria è il driver principale di questa domanda. Le rinnovabili coprono bene l’elettricità ma molto poco il calore industriale. "Transport", settore ancora dominato dai fossili, rinnovabili marginali, biofuel con limiti strutturali
+
+
+SLIDE 7
+
+-IRENA The energy transition in Brazil
+
+https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2025/Nov/IRENA_COU_Energy_transition_Brazil_2025.pdf
+​
+Riferimento al documento: Pagina 13/14 per confermare che la loro "transizione" è in realtà il mantenimento di una quota storica alta grazie all'idroelettrico e ai biocarburanti (stesse della slide 3).
+A pagina 36/37 (figure 21) si vede come il solare ha avuto una crescita dopo il 2020
+​
+-European Commission, "Renewable Energy Progress Report 2019": 
+
+https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52019DC0225
+​
+Riferimento al documento: Sezione sui progressi degli stati membri. Certifica il successo di Italia e Germania nel superare i target intermedi fissati per il 2020.
+
+-IEA/OECD, “An Energy Sector Roadmap to Carbon Neutrality in China”
+
+https://iea.blob.core.windows.net/assets/9448bd6e-670e-4cfd-953c-32e822a80f77/AnenergysectorroadmaptocarbonneutralityinChina.pdf
+
+Riferimento al documento: Pagina 21-23 viene spiegato come la Cina si sia sviluppata moltissimo negli anni e che, nonostante cerchi di effettuare la transizione alle rinnovabili è ancora troppo dipendente dal carbone. 
+
+-MIT, "Climate Change, Directed Innovation, and Energy Transition: The Long-run Consequences of the Shale Gas Revolution":
+
+https://economics.mit.edu/sites/default/files/2023-08/Climate%20Change%2C%20Directed%20Innovation%2C%20and%20Energy%20Transistion%20-%20The%20Long-run%20Consequences%20of%20the%20Shale%20Gas%20Revolution.pdf
+
+Riferimento al documento: pagina da 3 a 5 in cui c'è il grafico chiave: la quota di brevetti per l'energia pulita negli Stati Uniti. Mostrano che, proprio mentre il fracking esplodeva (2007-2012), la ricerca sulle rinnovabili negli USA colava a picco. E da 30 a 45 c'è la sezione intitolata "Quantitative Evaluation" o "Calibration". Qui gli autori smettono di parlare in teoria e applicano il modello esclusivamente ai dati del settore elettrico statunitense: utilizzano i dati della EIA (Energy Information Administration) degli Stati Uniti per simulare cosa sarebbe successo se il prezzo del gas non fosse crollato grazie allo shale e concludono che la "rivoluzione dello shale" ha ridotto l'intensità di CO_2 dell'elettricità USA dell'11,2% nel breve termine, ma ha creato la "trappola" tecnologica che rallenta il futuro.
+
+SLIDE 8
+
+- Danimarca: IRENA Report, "Renewable Energy Policies in a Time of Transition (2018)":
+
+https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2018/Apr/IRENA_IEA_REN21_Policies_2018.pdf
+
+Riferimento: a pagina 30 viene spiegato come la Danimarca abbia incentivato le rinnovabili tramite le politiche e la pianificazione sul lungo periodo.
+
+- Islanda: Wikipedia, Geothermal power in Iceland
+
+https://en.wikipedia.org/wiki/Geothermal_power_in_Iceland?#Government_policy
+
+Qui vengono elencate le politiche governative per quanto riguarda le energie rinnovabili, in particolare la geotermale che sembra essere la migliore per quanto riguarda l'Islanda.
+
+- Uruguay: Energy Policy 2005-2030 
+
+https://www.ideassonline.org/public/pdf/UruguayRenewableEnergy-ENG.pdf
+
+Qui vengono spiegate le politiche di governo applicate negli anni in questione, in particolare 2005-2020, e soprattutto la National Energy Policy 2005-2030, approvata nel 2008 e sostenuta da vari governi.
+
+- Tuvalu: Wikipedia, Renewable energy in Tuvalu e Small Island Developing States
+
+https://en.wikipedia.org/wiki/Renewable_energy_in_Tuvalu
+
+Riferimenti: La sezione di Introduzione (Top), "Tuvalu Energy Sector Development Project (ESDP)", "Commitment under the Majuro Declaration 2013" e "Commitment under the United Nations Framework Convention on Climate Change (UNFCCC) 1994", spiegano le politiche che ha adottato il Tuvalu per aumentare la quota rinnovabili
+
+https://en.wikipedia.org/wiki/Small_Island_Developing_States
+
+Riferimenti: Sezione "Impacts of climate change" e nella sezione "Challenges and risks associated with deep-sea mining" la frase "SIDS are particularly vulnerable in negotiations due to the slow, fragmented, and politically contested development of common guidelines on deep-sea mining by the ISA." supportata anche dal doi:10.3389/focsu.2024.1355965 in cui vi è un approfondimento
+
+- Gabon: Energypedia, Gabon Energy Situation
+
+https://energypedia.info/wiki/Gabon_Energy_Situation#Energy_Situation
+
+Nella sezione "Energy Situation" (comprendendo "Overview of the Country's Energy Sources" e "Energy Access") viene spiegato come l'area sia composta dall'85% da foresta e che, quindi, le biomasse restano il maggiore accesso all'energia del paese
+
+- Giappone: Wikipedia, Produzione di energia elettrica in Giappone
+
+https://it.wikipedia.org/wiki/Produzione_di_energia_elettrica_in_Giappone#Energia_da_fonti_non_rinnovabili
+
+Sezione "Energia da fonti non rinnovabili" in particolare solo i primi 2 paragrafi, viene spiegato come il Giappone dal 2002 ha dovuto importare combustibili fossili, in particolare il carbone, a causa dell'abbondante domanda energetica.
+
+Energiaitalia "Nucleare e rafforzamento delle rinnovabili: il nuovo mix energetico del Giappone" | Euroborsa, "Giappone: entro il 2040, la metà del fabbisogno energetico verrà da rinnovabili" 
+
+https://www.energiaitalia.news/policy/policy-mondo/nucleare-e-rafforzamento-delle-rinnovabili-il-nuovo-mix-energetico-del-giappone/43161/
+https://euroborsa.it/giappone-2040-fabbisogno-energetico-rinnovabili.aspx
+
+Nonostante i grandi piani per il 2030 e 2040 spiegati nell'articolo di euroborsa, al 2023 la quota rinnovabili del Giappone rappresenta solo l'8,84% (dato presente nell'articolo di energiaitalia)

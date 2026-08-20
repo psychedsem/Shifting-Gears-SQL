@@ -1,0 +1,100 @@
+### SLIDE 3
+
+- IEA (International Energy Agency), "World Energy Outlook 2019": 
+https://www.iea.org/reports/world-energy-outlook-2019/renewables 
+Confirms that in 2019, solar and wind were the primary drivers of growth, but global electricity demand was rising too rapidly for total decarbonization.
+
+- REN21, "Renewables 2019 Global Status Report": 
+https://www.ren21.net/gsr-2019/chapters/chapter_01/chapter_01/
+Reference: Introduction. Highlights the discrepancy between the power sector (undergoing rapid transition) and the heating/transport sectors (still heavily reliant on fossil fuels).
+
+
+### SLIDE 4
+
+- Mariana Mazzucato (Project Syndicate), "The Green Entrepreneurial State": 
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2744602#
+The author explains how green technologies (wind/solar) in Germany took off thanks to "patient state capital" rather than just the free market (Page 8).
+
+- IRENA Report: "Renewable Energy Policies in a Time of Transition (2018)":
+https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2018/Apr/IRENA_IEA_REN21_Policies_2018.pdf
+Document Reference: Pages 61 and 62 argue how the cited countries used tax incentives (Feed-in Policies) and auctions to outperform the average, unlike those anchored to fossil fuel subsidies.
+
+- IRENA Report: "Energy Transition in Brazil 2025"
+https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2025/Nov/IRENA_COU_Energy_transition_Brazil_2025.pdf
+Reference: “This, in turn, is the result of actions that have been implemented over many years.” It specifies the types of renewables immediately after: hydropower, sugarcane products, and only more recently wind and solar (pages 13-14).
+*Sources for the "paradox" section are located in Slide 5.
+
+
+### SLIDE 5 
+
+- IEA (International Energy Agency), "Africa Energy Outlook 2019": 
+https://www.iea.org/reports/africa-energy-outlook-2019 
+Document Reference: Energy transitions section; explains the general difficulties the African continent faces in shifting toward renewable energy sources.
+
+- Scientific Paper: Dagnachew et al. (2020): 
+https://www.researchgate.net/publication/347044950_Integrating_energy_access_efficiency_and_renewable_energy_policies_in_Sub-Saharan_Africa_a_model-based_analysis.
+Document Reference: Pages 6 and 7 explain how Sub-Saharan Africa remains tied to traditional biomass.
+
+
+### SLIDE 6
+
+- IEA (International Energy Agency), "World Energy Outlook 2019":
+https://iea.blob.core.windows.net/assets/98909c1b-aabc-4797-9926-35307b418cdb/WEO2019-free.pdf
+References: 7.2 Renewables overview (pages 305-306) and 7.5 Material efficiency in heavy industries (pages 311-319). The report states that steel, cement, and chemicals remain heavily dependent on fossil fuels; renewable electricity alone is insufficient, requiring new technologies and process conversions. 6.12 Exploring the new frontiers of flexibility (pages 292-298): it is explicitly stated that integrating renewables requires energy storage, grid flexibility, and new power system designs. Without these, renewables cannot replace fossil fuels.
+
+- REN21, "Renewables 2019 Global Status Report": 
+https://www.ren21.net/gsr-2019/chapters/chapter_01/chapter_01/
+References: "Heating and Cooling": notes that while the majority of global energy demand is for heating & cooling, industry is the primary driver. Renewables cover electricity well but contribute very little to industrial heat. "Transport": sector still dominated by fossil fuels, with marginal renewable presence and structural limits for biofuels.
+
+
+### SLIDE 7
+
+- IRENA, "The energy transition in Brazil":
+https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2025/Nov/IRENA_COU_Energy_transition_Brazil_2025.pdf
+Document Reference: Pages 13/14 confirm that their "transition" is actually the maintenance of a historically high share due to hydropower and biofuels. Pages 36/37 (Figure 21) show the growth of solar after 2020.
+
+- European Commission, "Renewable Energy Progress Report 2019": 
+https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52019DC0225
+Document Reference: Section on Member States' progress. Certifies the success of Italy and Germany in exceeding the interim targets set for 2020.
+
+- IEA/OECD, “An Energy Sector Roadmap to Carbon Neutrality in China”
+https://iea.blob.core.windows.net/assets/9448bd6e-670e-4cfd-953c-32e822a80f77/AnenergysectorroadmaptocarbonneutralityinChina.pdf
+Document Reference: Pages 21-23 explain China's rapid development and that, despite efforts to transition to renewables, it remains overly dependent on coal. 
+
+- MIT, "Climate Change, Directed Innovation, and Energy Transition":
+https://economics.mit.edu/sites/default/files/2023-08/Climate%20Change%2C%20Directed%20Innovation%2C%20and%20Energy%20Transistion%20-%20The%20Long-run%20Consequences%20of%20the%20Shale%20Gas%20Revolution.pdf
+Document Reference: Pages 3 to 5 contain the key graph: the share of clean energy patents in the US. It shows that as fracking exploded (2007-2012), renewable research in the US plummeted. Pages 30 to 45 ("Quantitative Evaluation" or "Calibration") apply the model to US power sector data. Using US EIA data, they conclude the "shale revolution" reduced US electricity CO2 intensity by 11.2% in the short term but created a technological "trap" that slows down future progress.
+
+
+### SLIDE 8
+
+- Denmark: IRENA Report, "Renewable Energy Policies in a Time of Transition (2018)":
+https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2018/Apr/IRENA_IEA_REN21_Policies_2018.pdf
+Reference: Page 30 explains how Denmark incentivized renewables through long-term planning and policy.
+
+- Iceland: Wikipedia, Geothermal power in Iceland
+https://en.wikipedia.org/wiki/Geothermal_power_in_Iceland?#Government_policy
+Lists government policies regarding renewable energy, specifically geothermal, which is Iceland's primary source.
+
+- Uruguay: Energy Policy 2005-2030 
+https://www.ideassonline.org/public/pdf/UruguayRenewableEnergy-ENG.pdf
+Explains government policies applied between 2005-2020, specifically the National Energy Policy 2005-2030, approved in 2008 and supported by successive governments.
+
+- Tuvalu: Wikipedia, Renewable energy in Tuvalu & Small Island Developing States
+https://en.wikipedia.org/wiki/Renewable_energy_in_Tuvalu
+References: Introduction, "Tuvalu Energy Sector Development Project (ESDP)", "Commitment under the Majuro Declaration 2013", and "UNFCCC 1994" sections explain policies adopted to increase renewable shares.
+https://en.wikipedia.org/wiki/Small_Island_Developing_States
+References: "Impacts of climate change" and "Challenges and risks associated with deep-sea mining" sections. States that SIDS are vulnerable due to fragmented negotiations on deep-sea mining (supported by doi:10.3389/focsu.2024.1355965).
+
+- Gabon: Energypedia, Gabon Energy Situation
+https://energypedia.info/wiki/Gabon_Energy_Situation#Energy_Situation
+The "Energy Situation" section explains that 85% of the country is forest, making biomass the primary energy source.
+
+- Japan: Wikipedia, Electricity sector in Japan
+https://en.wikipedia.org/wiki/Electricity_sector_in_Japan
+Sections on non-renewable sources explain how, since 2002, Japan has had to import fossil fuels (particularly coal) to meet high energy demand.
+
+- Articles: "Nuclear and strengthening of renewables" | "Japan: half of energy needs from renewables by 2040" 
+https://www.energiaitalia.news/policy/policy-mondo/nucleare-e-rafforzamento-delle-rinnovabili-il-nuovo-mix-energetico-del-giappone/43161/
+https://euroborsa.it/giappone-2040-fabbisogno-energetico-rinnovabili.aspx
+Despite ambitious plans for 2030 and 2040, as of 2023, Japan's renewable share represents only 8.84% (data from Energiaitalia).
