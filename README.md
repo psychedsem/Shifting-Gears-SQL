@@ -25,11 +25,11 @@ The project demonstrates how SQL can be used not only to query datasets, but als
 
 ### Project Files
 
-> 🇬🇧 [View the Presentation in English](<Shifting Gears ENG.pdf>)  
-> 🇮🇹 [View the Presentation in Italian](<Shifting Gears ITA.pdf>)
+> 🇬🇧 [View the Presentation in English](presentation/Shifting%20Gears%20ENG.pdf)  
+> 🇮🇹 [View the Presentation in Italian](presentation/Shifting%20Gears%20ITA.pdf)
 
-> 🇬🇧 [Open the SQL Script in English](<ENG Analysis' Script.sql>)  
-> 🇮🇹 [Open the SQL Script in Italian](<ITA Analysis' Script.sql>)
+> 🇬🇧 [Open the SQL Script in English](ENG%20Analysis'%20Script.sql)  
+> 🇮🇹 [Open the SQL Script in Italian](ITA%20Analysis'%20Script.sql)
 
 ### Data & Documentation
 
